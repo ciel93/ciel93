@@ -9,8 +9,16 @@
 
 - 🧑‍💻 I'm a Game QA Tester at Digital Hearts, actively transitioning into a Cloud Engineer role.
 - 🛠️ Experienced in Java (Spring Boot, JSP/Servlet) and Python (Pygame/Django).
-- 🌱 I’m currently learning Rust, Docker,k8s, AWS!
 - 📫 How to reach me: [Twitter - @RX79AKKai](https://twitter.com/rx79akkai)
+<br>
+
+<!-- 自作エンジンの最適化実績（アルゴリズム力のアピール） -->
+## 🚀 Personal Project Optimization
+Developed a high-performance bullet hell (Danmaku) engine from scratch using Pygame, focusing on resource efficiency and computational complexity:
+
+- **Object Pooling**: Mitigated CPU overhead and prevented memory churn by implementing a custom object pool pattern to recycle bullet and enemy entities instead of frequent instantiations.
+- **Spatial Partitioning (Quadtree)**: Optimized collision detection by reducing complexity from $O(N^2)$ to $O(N \log N)$ via a custom Quadtree implementation, enabling smooth 60 FPS rendering with thousands of active on-screen objects.
+- **Low-Level Resource Management**: Built core game loops and state management without relying on heavy commercial game engines, demonstrating a strong grasp of data structures and algorithmic efficiency.
 <br>
 
 
@@ -18,11 +26,19 @@
 <!-- ライトモート：theme=light, ダークモート：theme=dark -->
 <!-- アイコンの選択肢一覧：https://arc.net/l/quote/zizyykfh -->
 ## 🌱 Skills
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,java,spring,python,django,sqlite" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=7&i=html,css,java,spring,python,django,sqlite" />
+<br>
+
+<!-- 4. いま学習中のモダンテック（ここが最高にカッコいい！） -->
+## 🔭 Currently Learning
+Active self-study path focused on cloud-native technologies, container orchestration, and Linux systems (currently diving into **Fedora/RHEL** core management):
+
+<img alt="currently learning" src="https://skillicons.dev/icons?theme=light&perline=7&i=rust,docker,kubernetes,linux" />
 <br>
 
 
-<!-- 4. GitHub usernameを変更, 2箇所 -->
+
+<!-- 5. GitHub usernameを変更, 2箇所 -->
 <!-- ライトモート：theme=light, ダークモート：theme=vue-dark  -->
 ## 🏃‍♀️ Activities
 <div align="left"> 
