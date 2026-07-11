@@ -33,7 +33,7 @@ Developed a high-performance bullet hell (Danmaku) engine from scratch using Pyg
 ## 🔭 Currently Learning
 Active self-study path focused on cloud-native technologies, container orchestration, and Linux systems (currently diving into **Fedora/RHEL** core management):
 
-<img alt="currently learning" src="https://skillicons.dev/icons?theme=light&perline=7&i=rust,docker,kubernetes,linux" />
+<img alt="currently learning" src="https://skillicons.dev/icons?theme=light&perline=7&i=rust,docker,kubernetes,aws,linux" />
 <br>
 
 
